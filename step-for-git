@@ -11,6 +11,7 @@ github.io
 4]git commit -m "first commit"
 
 
+git status
 
 git push origin main
 
